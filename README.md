@@ -1,3 +1,5 @@
+
+
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
@@ -45,18 +47,21 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-
+<img width="1351" height="529" alt="Screenshot 2026-05-25 092130" src="https://github.com/user-attachments/assets/1df45b7a-32e0-4c7b-a22a-203dcd95607e" />
 
 b.  KCL:
  
+<img width="1213" height="606" alt="Screenshot 2026-05-25 093017" src="https://github.com/user-attachments/assets/dfcc5982-fff1-4f7e-a2cf-083e184fe12d" />
 
 Calculation:
 
 a.   KVL:
  
+<img width="844" height="410" alt="image" src="https://github.com/user-attachments/assets/960ffee6-f552-4bca-ade7-179f69b7fcc4" />
 
 
 b.  KCL:
+<img width="758" height="807" alt="image" src="https://github.com/user-attachments/assets/5d663718-cc08-44ef-a61e-447f5ace1a7d" />
 
 
 
@@ -65,10 +70,12 @@ Tabulation:
 
 a.   KVL:
  
+<img width="561" height="281" alt="image" src="https://github.com/user-attachments/assets/0beea56b-d9fd-4a16-bc11-e269356fb67f" />
 
 
 b.  KCL:
 
+<img width="560" height="200" alt="image" src="https://github.com/user-attachments/assets/8967e486-e8f7-403f-91a1-923f66e7c3de" />
 
 
 RESULT:
